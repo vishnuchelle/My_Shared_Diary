@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="menu_edit">Edit Item</string>
+    <string name="menu_delete">Delete Item</string>
+</resources>
