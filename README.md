@@ -4,4 +4,4 @@ My_Shared_Diary is an Android application being developed as a part of the cours
 
 University of Missouri Kansas City: Spring 2015 Semester
 
-Course: COMP-SCI 5551 - Adv Software Engineering
+Course: COMP-SCI 5551 - Adv Software Engineering.
